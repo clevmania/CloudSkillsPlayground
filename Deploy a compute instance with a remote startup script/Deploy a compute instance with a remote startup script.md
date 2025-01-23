@@ -6,7 +6,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/.../gsp301.sh
+curl -LO https://raw.githubusercontent.com/clevmania/CloudSkillsPlayground/refs/heads/main/Deploy%20a%20compute%20instance%20with%20a%20remote%20startup%20script/gsp301.sh
 
 sudo chmod +x gsp301.sh
 
