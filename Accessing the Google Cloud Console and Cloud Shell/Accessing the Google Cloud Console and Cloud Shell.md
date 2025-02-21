@@ -3,7 +3,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/clevmania/CloudSkillsPlayground/main/Translate%20Text%20with%20the%20Cloud%20Translation%20API/gsp049.sh
+curl -LO raw.githubusercontent.com/clevmania/CloudSkillsPlayground/main/Accessing%20the%20Google%20Cloud%20Console%20and%20Cloud%20Shell/agcccs.sh
 
 sudo chmod +x agcccs.sh
 
