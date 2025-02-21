@@ -1,7 +1,3 @@
-# Deploy GKE clusters
-export my_region=Region
-export my_cluster=autopilot-cluster-1
-
 # [DGACCS](https://www.cloudskillsboost.google/focuses/72688?parent=catalog) Deploying GKE Autopilot Clusters from Cloud Shell
 
 
@@ -11,7 +7,7 @@ export my_region=
 ```
 
 ```
-curl -LO raw.githubusercontent.com/clevmania/CloudSkillsPlayground/main//dgaccs.sh
+curl -LO raw.githubusercontent.com/clevmania/CloudSkillsPlayground/main/Deploying%20GKE%20Autopilot%20Clusters%20from%20Cloud%20Shell/dgaccs.sh
 
 sudo chmod +x dgacccs.sh
 
