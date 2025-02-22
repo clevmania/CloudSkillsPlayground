@@ -9,7 +9,7 @@ export my_region=
 ```
 curl -LO raw.githubusercontent.com/clevmania/CloudSkillsPlayground/main/Deploying%20GKE%20Autopilot%20Clusters%20from%20Cloud%20Shell/dgaccs.sh
 
-sudo chmod +x dgacccs.sh
+sudo chmod +x dgaccs.sh
 
 ./dgaccs.sh
 ```
